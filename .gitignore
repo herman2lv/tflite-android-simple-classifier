@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.zip
+*.gz
+*.tar
+*.iml
+*.idea
+**/.gradle
+**/build
+**/out
+local.properties
